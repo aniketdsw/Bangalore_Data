@@ -21,6 +21,7 @@
 var map;
 var infoWindow;
 var service;
+ var counter = 0;
 
 function initMap() {
   
@@ -29,9 +30,9 @@ function initMap() {
   //  for (var i = 12.9667;var j = 77.5667; i < 120; j< 150;i+=5;j+=5) {
      
     
-    //center: {lat: 12.9667, lng: 77.5667},
-    
-    zoom: 17,
+    center: {lat: 12.9667, lng: 77.5667},
+    zoom: 14,
+   /* draggable: false,*/
     styles: [{
       stylers: [{ visibility: 'simplified' }]
     }, {
@@ -39,7 +40,7 @@ function initMap() {
       stylers: [{ visibility: 'off' }]
     }]
   });
-
+/*
    var drawingManager = new google.maps.drawing.DrawingManager({
     drawingMode: google.maps.drawing.OverlayType.MARKER,
     drawingControl: true,
@@ -60,39 +61,84 @@ function initMap() {
       strokeWeight: 5,
       clickable: false,
       editable: true,
-      zIndex: 1
+      zIndex: 1,
+      draggable: false
+
     }
   });
- drawingManager.setMap(map);
+ drawingManager.setMap(map);*/
 
   // };
+  // 
+  /*bangalore rectangle coordinates : 
+      North west : 13.107550, 77.338545 
+North east : 13.161746, 77.764098
+
+South West  :12.727508, 77.456149
+South East : 12.894124, 77.906791
+
+New north-east corner: 13.104206198736541, 77.78937461816417
+New south-west corner: 12.782320811019938, 77.46214119140632
+   */
+  
+ var bounds = new google.maps.LatLngBounds(
+  new google.maps.LatLng(13.104206198736541, 77.78937461816417),
+      new google.maps.LatLng(12.782320811019938, 77.46214119140632)
+
+  );
+
+  // Define the rectangle and set its editable property to true.
+  rectangle = new google.maps.Rectangle({
+    bounds: bounds,
+    editable: false,
+    draggable: false
+  });
+
+  rectangle.setMap(map);
+
+  // Add an event listener on the rectangle.
+  google.maps.event.addListener(rectangle, 'bounds_changed', showNewRect);
+
   infoWindow = new google.maps.InfoWindow();
   service = new google.maps.places.PlacesService(map);
 
   // The idle event is a debounced event, so we can query & listen without
   // throwing too many requests at the server.
+  // google.maps.event.addDomListener(window, 'initMap', Initialize);
+
   map.addListener('idle', performSearch);
 
 }
+// Show the new coordinates for the rectangle in an info window.
+
+/** @this {google.maps.Rectangle} */
+function showNewRect(event) {
+  var ne = rectangle.getBounds().getNorthEast();
+  var sw = rectangle.getBounds().getSouthWest();
+  
+  var contentString = '<b>Rectangle moved.</b><br>' +
+      'New north-east corner: ' + ne.lat() + ', ' + ne.lng() + '<br>' +
+      'New south-west corner: ' + sw.lat() + ', ' + sw.lng();
+
+  // Set the info window's content and position.
+  infoWindow.setContent(contentString);
+  infoWindow.setPosition(ne);
+
+  infoWindow.open(map);
+}
+
+google.maps.event.addDomListener(window, 'load', initMap);
 
 function performSearch() {
- /* var request = {
+ 
+ 
+
+  var request = {
     bounds: map.getBounds(),
     keyword: 'school'
   };
   service.radarSearch(request, callback);
-  var request = {
-    bounds: map.getBounds(),
-    keyword: 'college'
-  };
-  service.radarSearch(request, callback);*/
 /*
-  var request = {
-    bounds: map.getBounds(),
-    keyword: 'restaurant'
-  };
-  service.radarSearch(request, callback);
-
   var request = {
     bounds: map.getBounds(),
     keyword: 'hospital'
@@ -103,33 +149,49 @@ function performSearch() {
     bounds: map.getBounds(),
     keyword: 'college'
   };
-  service.radarSearch(request, callback);*/
+  service.radarSearch(request, callback);
 
   var request = {
 
     bounds: map.getBounds(),
-    keyword: 'school'
+    keyword: '(university) OR (college)'
   };
-  service.radarSearch(request, callback);
+  service.radarSearch(request, callback);*/
 }
 
 
 
 function callback(results, status) {
-  if (status !== google.maps.places.PlacesServiceStatus.OK) {
+    if (status == google.maps.GeocoderStatus.OVER_QUERY_LIMIT){
+           setTimeout(2000);
+         }
+     else  if (status !== google.maps.places.PlacesServiceStatus.OK) {
     console.error(status);
     return;
   }
-  var wait = true;
-
+  else {
+    var wait = true;
+   
+  
   for (var i = 0, result; result = results[i]; i++) { 
        //console.log(result);
+    /*console.log(" [ "+result.name+"],[ "+result.geometry.location+" ] ");  */
+   /* console.log("================================");
+     console.log(result.name+" Formatted Address : "+ result.formatted_address);
+           console.log(" Coordinates : " +result.geometry.location+ " Vicinity : "+ result.vicinity);
+           console.log("Place_ID : "+result.place_id +" Types : "+ result.types);*/
+
+     console.log("["+result.geometry.location+"],["+result.place_id+"]");      
+     counter++;
     addMarker(result);
 
+     
 
  /*var marker = new google.maps.Marker({});*/
 
   }
+  console.log(" Counter  : "+counter );
+}
 }
 
 
@@ -158,7 +220,7 @@ function addMarker(place) {
     map: map,
     position: place.geometry.location,
     icon: {
-      url: 'http://maps.gstatic.com/mapfiles/circle.png',
+      url: 'F:\\Project Elective - Traffic Modelling\\myworkarea\\circle.png',
       anchor: new google.maps.Point(10, 10),
       scaledSize: new google.maps.Size(10, 17)
     }
@@ -168,25 +230,25 @@ function addMarker(place) {
 
   service.getDetails(place, function(result, status) {
 
-      if (status == google.maps.GeocoderStatus.OVER_QUERY_LIMIT)
-    {      
-    setTimeout(30000);
-    } 
+      if (status == google.maps.GeocoderStatus.OVER_QUERY_LIMIT){
+           setTimeout(2000);
+         }
      else if (status !== google.maps.places.PlacesServiceStatus.OK) {
         console.error(status);
         return;
       }
+    else  
            /*console.log("================================");
            console.log(result.name+" Formatted Address : "+ result.formatted_address);
            console.log(" Coordinates : " +result.geometry.location+ " Vicinity"+ result.vicinity);
            console.log("Place_ID"+result.place_id +" Types : "+ result.types);
 */
-                 console.log(" [ "+result.name+"],[ "+result.geometry.location+" ] ");  
-        
-
-      infoWindow.setContent(result.name);
-      infoWindow.open(map, marker);
-      
+                 
+   {
+    /*console.log(" [ "+result.name+"],[ "+result.geometry.location+" ] ");  */
+    // infoWindow.setContent(result.name);
+    //  infoWindow.open(map, marker);
+    }   
     
     });
    /*bangalore rectangle coordinates : 

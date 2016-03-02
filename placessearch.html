@@ -21,8 +21,10 @@
 
       var map;
       var infowindow;
-
+      var counter = 0;
       function initMap() {
+      
+     
         var pyrmont =  {lat: 12.9667, lng: 77.5667};
 
         map = new google.maps.Map(document.getElementById('map'), {
@@ -34,18 +36,21 @@
         var service = new google.maps.places.PlacesService(map);
         service.nearbySearch({
           location: pyrmont,
-          radius: 500,
-          type: ['school'],
-
-
+          radius: 5000,
+          type: ['software'],
         }, callback);
+
+
       }
 
       function callback(results, status) {
         if (status === google.maps.places.PlacesServiceStatus.OK) {
           for (var i = 0; i < results.length; i++) {
+            counter++;
+            console.log(results[i].name+" Coordinates : "+results[i].geometry.location+ " Type : "+ results[i].types);
             createMarker(results[i]);
           }
+          console.log("Counter : "+counter);
         }
       }
 
@@ -55,7 +60,7 @@
           map: map,
           position: place.geometry.location
         });
-                console.log(place.name+" Coordinates : "+placeLoc+ " Type : "+ place.types);
+               /* console.log(place.name+" Coordinates : "+placeLoc+ " Type : "+ place.types);*/
         google.maps.event.addListener(marker, 'click', function() {
           infowindow.setContent(place.name);
           infowindow.open(map, this);

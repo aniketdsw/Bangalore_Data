@@ -1,806 +1,289 @@
 Navigated to file:///F:/Project%20Elective%20-%20Traffic%20Modelling/myworkarea/index.html
 Uncaught SyntaxError: Unexpected token }
 Uncaught InvalidValueError: initMap is not a function
-Uncaught SyntaxError: Unexpected token }
-Navigated to file:///F:/Project%20Elective%20-%20Traffic%20Modelling/myworkarea/index.html
-Uncaught SyntaxError: Unexpected token }
 ================================
 Isaac Newton High School Formatted Address : Manivartapete, Cottonpete, Bengaluru, Karnataka 560053, India
  Coordinates : (12.9691387, 77.57072930000004) VicinityManivartapete, Cottonpete, Bengaluru
 Place_IDChIJ9Z9V_wYWrjsRpSjuVP_PZYY Types : school,point_of_interest,establishment
-================================
 B B M P Girls School Formatted Address : K V Temple Street, Near-Corporation Girls High School, Sultanpet, Bengaluru, Karnataka 560053, India
  Coordinates : (12.970033, 77.57331699999997) VicinityK V Temple Street, Near-Corporation Girls High School, Sultanpet, Bengaluru
 Place_IDChIJywVKJwYWrjsR1eNI73Btuzw Types : school,point_of_interest,establishment
-================================
 St.Catherine High School Formatted Address : E-207, Binny Mill Road, Cottonpet, Cottonpet, Bengaluru, Karnataka 560053, India
  Coordinates : (12.9689642, 77.57124490000001) VicinityE-207, Binny Mill Road, Cottonpet, Cottonpet, Bengaluru
 Place_IDChIJO9-gUgYWrjsRTXFlH8mrVUY Types : school,point_of_interest,establishment
-================================
-B B M P Girls School Formatted Address : K V Temple Street, Near-Corporation Girls High School, Sultanpet, Bengaluru, Karnataka 560053, India
- Coordinates : (12.970033, 77.57331699999997) VicinityK V Temple Street, Near-Corporation Girls High School, Sultanpet, Bengaluru
-Place_IDChIJywVKJwYWrjsR1eNI73Btuzw Types : school,point_of_interest,establishment
-================================
-St.Catherine High School Formatted Address : E-207, Binny Mill Road, Cottonpet, Cottonpet, Bengaluru, Karnataka 560053, India
- Coordinates : (12.9689642, 77.57124490000001) VicinityE-207, Binny Mill Road, Cottonpet, Cottonpet, Bengaluru
-Place_IDChIJO9-gUgYWrjsRTXFlH8mrVUY Types : school,point_of_interest,establishment
-================================
-Isaac Newton High School Formatted Address : Manivartapete, Cottonpete, Bengaluru, Karnataka 560053, India
- Coordinates : (12.9691387, 77.57072930000004) VicinityManivartapete, Cottonpete, Bengaluru
-Place_IDChIJ9Z9V_wYWrjsRpSjuVP_PZYY Types : school,point_of_interest,establishment
-================================
-St.Catherine High School Formatted Address : E-207, Binny Mill Road, Cottonpet, Cottonpet, Bengaluru, Karnataka 560053, India
- Coordinates : (12.9689642, 77.57124490000001) VicinityE-207, Binny Mill Road, Cottonpet, Cottonpet, Bengaluru
-Place_IDChIJO9-gUgYWrjsRTXFlH8mrVUY Types : school,point_of_interest,establishment
-================================
-Isaac Newton High School Formatted Address : Manivartapete, Cottonpete, Bengaluru, Karnataka 560053, India
- Coordinates : (12.9691387, 77.57072930000004) VicinityManivartapete, Cottonpete, Bengaluru
-Place_IDChIJ9Z9V_wYWrjsRpSjuVP_PZYY Types : school,point_of_interest,establishment
-================================
-B B M P Girls School Formatted Address : K V Temple Street, Near-Corporation Girls High School, Sultanpet, Bengaluru, Karnataka 560053, India
- Coordinates : (12.970033, 77.57331699999997) VicinityK V Temple Street, Near-Corporation Girls High School, Sultanpet, Bengaluru
-Place_IDChIJywVKJwYWrjsR1eNI73Btuzw Types : school,point_of_interest,establishment
-================================
-Isaac Newton High School Formatted Address : Manivartapete, Cottonpete, Bengaluru, Karnataka 560053, India
- Coordinates : (12.9691387, 77.57072930000004) VicinityManivartapete, Cottonpete, Bengaluru
-Place_IDChIJ9Z9V_wYWrjsRpSjuVP_PZYY Types : school,point_of_interest,establishment
-================================
-B B M P Girls School Formatted Address : K V Temple Street, Near-Corporation Girls High School, Sultanpet, Bengaluru, Karnataka 560053, India
- Coordinates : (12.970033, 77.57331699999997) VicinityK V Temple Street, Near-Corporation Girls High School, Sultanpet, Bengaluru
-Place_IDChIJywVKJwYWrjsR1eNI73Btuzw Types : school,point_of_interest,establishment
-================================
-St.Catherine High School Formatted Address : E-207, Binny Mill Road, Cottonpet, Cottonpet, Bengaluru, Karnataka 560053, India
- Coordinates : (12.9689642, 77.57124490000001) VicinityE-207, Binny Mill Road, Cottonpet, Cottonpet, Bengaluru
-Place_IDChIJO9-gUgYWrjsRTXFlH8mrVUY Types : school,point_of_interest,establishment
-================================
 Kamala Central School Formatted Address : 450, OTC Road, Cottonpete, Bengaluru, Karnataka 560053, India
  Coordinates : (12.9729185, 77.57126500000004) Vicinity450, Old Taluk Cutchery Road, Cottonpete, Bengaluru
 Place_IDChIJOdHZxwUWrjsRsuXoIxojij4 Types : point_of_interest,establishment
-================================
-================================
-================================
-Isaac Newton High School Formatted Address : Manivartapete, Cottonpete, Bengaluru, Karnataka 560053, India
- Coordinates : (12.9691387, 77.57072930000004) VicinityManivartapete, Cottonpete, Bengaluru
-Place_IDChIJ9Z9V_wYWrjsRpSjuVP_PZYY Types : school,point_of_interest,establishment
-================================
-St.Catherine High School Formatted Address : E-207, Binny Mill Road, Cottonpet, Cottonpet, Bengaluru, Karnataka 560053, India
- Coordinates : (12.9689642, 77.57124490000001) VicinityE-207, Binny Mill Road, Cottonpet, Cottonpet, Bengaluru
-Place_IDChIJO9-gUgYWrjsRTXFlH8mrVUY Types : school,point_of_interest,establishment
-================================
 Windermere Public School Formatted Address : 13/1, Magadi Road, 3, Magadi Road, Bengaluru, Karnataka 560023, India
  Coordinates : (12.9753407, 77.56129729999998) Vicinity13/1, Magadi Road, 3, Magadi Road, Bengaluru
 Place_IDChIJ2zJ4RUo8rjsR2XB5POeeVfw Types : school,point_of_interest,establishment
-================================
 Tilak Memorial English High School Formatted Address : 2nd Cross, Magadi Road, Binnipete, Bengaluru, Karnataka 560023, India
  Coordinates : (12.9756967, 77.56165429999999) Vicinity2nd Cross, Magadi Road, Binnipete, Bengaluru
 Place_IDChIJiUSZC_g9rjsRUkGBBeDgBmQ Types : school,point_of_interest,establishment
-================================
-================================
-================================
-Windermere Public School Formatted Address : 13/1, Magadi Road, 3, Magadi Road, Bengaluru, Karnataka 560023, India
- Coordinates : (12.9753407, 77.56129729999998) Vicinity13/1, Magadi Road, 3, Magadi Road, Bengaluru
-Place_IDChIJ2zJ4RUo8rjsR2XB5POeeVfw Types : school,point_of_interest,establishment
-================================
-Tilak Memorial English High School Formatted Address : 2nd Cross, Magadi Road, Binnipete, Bengaluru, Karnataka 560023, India
- Coordinates : (12.9756967, 77.56165429999999) Vicinity2nd Cross, Magadi Road, Binnipete, Bengaluru
-Place_IDChIJiUSZC_g9rjsRUkGBBeDgBmQ Types : school,point_of_interest,establishment
-================================
 N.K.S English High School Formatted Address : Upparpete, Gandhi Nagar, Bengaluru, Karnataka 560009, India
  Coordinates : (12.9746181, 77.57524620000004) VicinityUpparpete, Gandhi Nagar, Bengaluru
 Place_IDChIJVVVVhVkYrjsR73ZiZc4kO1A Types : school,point_of_interest,establishment
-================================
-================================
-N.K.S English High School Formatted Address : Upparpete, Gandhi Nagar, Bengaluru, Karnataka 560009, India
- Coordinates : (12.9746181, 77.57524620000004) VicinityUpparpete, Gandhi Nagar, Bengaluru
-Place_IDChIJVVVVhVkYrjsR73ZiZc4kO1A Types : school,point_of_interest,establishment
-================================
-Windermere Public School Formatted Address : 13/1, Magadi Road, 3, Magadi Road, Bengaluru, Karnataka 560023, India
- Coordinates : (12.9753407, 77.56129729999998) Vicinity13/1, Magadi Road, 3, Magadi Road, Bengaluru
-Place_IDChIJ2zJ4RUo8rjsR2XB5POeeVfw Types : school,point_of_interest,establishment
-================================
-Tilak Memorial English High School Formatted Address : 2nd Cross, Magadi Road, Binnipete, Bengaluru, Karnataka 560023, India
- Coordinates : (12.9756967, 77.56165429999999) Vicinity2nd Cross, Magadi Road, Binnipete, Bengaluru
-Place_IDChIJiUSZC_g9rjsRUkGBBeDgBmQ Types : school,point_of_interest,establishment
-================================
-Kamala Central School Formatted Address : 450, OTC Road, Cottonpete, Bengaluru, Karnataka 560053, India
- Coordinates : (12.9729185, 77.57126500000004) Vicinity450, Old Taluk Cutchery Road, Cottonpete, Bengaluru
-Place_IDChIJOdHZxwUWrjsRsuXoIxojij4 Types : point_of_interest,establishment
-================================
 Government Ayurvedic Medical College Formatted Address : Dhanvantari Road, Bangalore, Bengaluru, Karnataka 560010, India
  Coordinates : (12.9793279, 77.57344969999997) VicinityDhanvantari Road, Bangalore, Bengaluru
 Place_IDChIJabW-OvE9rjsRyn7IqLyd8z0 Types : health,point_of_interest,establishment
-================================
-Government Ayurvedic Medical College Formatted Address : Dhanvantari Road, Bangalore, Bengaluru, Karnataka 560010, India
- Coordinates : (12.9793279, 77.57344969999997) VicinityDhanvantari Road, Bangalore, Bengaluru
-Place_IDChIJabW-OvE9rjsRyn7IqLyd8z0 Types : health,point_of_interest,establishment
-================================
-Windermere Public School Formatted Address : 13/1, Magadi Road, 3, Magadi Road, Bengaluru, Karnataka 560023, India
- Coordinates : (12.9753407, 77.56129729999998) Vicinity13/1, Magadi Road, 3, Magadi Road, Bengaluru
-Place_IDChIJ2zJ4RUo8rjsR2XB5POeeVfw Types : school,point_of_interest,establishment
-================================
-Kamala Central School Formatted Address : 450, OTC Road, Cottonpete, Bengaluru, Karnataka 560053, India
- Coordinates : (12.9729185, 77.57126500000004) Vicinity450, Old Taluk Cutchery Road, Cottonpete, Bengaluru
-Place_IDChIJOdHZxwUWrjsRsuXoIxojij4 Types : point_of_interest,establishment
-================================
-================================
 Government Science college Formatted Address : Nrupathunga Rd, Ambedkar Veedhi, Sampangi Rama Nagar, Bengaluru, Karnataka 560009, India
  Coordinates : (12.9737215, 77.5858677) VicinityNrupathunga Road, Ambedkar Veedhi, Sampangi Rama Nagar, Bengaluru
 Place_IDChIJrZ1vnHQWrjsRfjkkJ_DGlO8 Types : point_of_interest,establishment
-================================
 SJPUC Formatted Address : FM Cariappa Road, Museum Road, Bengaluru, Karnataka 560025, India
  Coordinates : (12.9711185, 77.60423190000006) VicinityFM Cariappa Road, Museum Road, Bengaluru
 Place_IDChIJezZqpYAWrjsR0NOXoQSI4tU Types : point_of_interest,establishment
-================================
-================================
-Government Science college Formatted Address : Nrupathunga Rd, Ambedkar Veedhi, Sampangi Rama Nagar, Bengaluru, Karnataka 560009, India
- Coordinates : (12.9737215, 77.5858677) VicinityNrupathunga Road, Ambedkar Veedhi, Sampangi Rama Nagar, Bengaluru
-Place_IDChIJrZ1vnHQWrjsRfjkkJ_DGlO8 Types : point_of_interest,establishment
-================================
 Seshadripuram Pre-University College Formatted Address : No. 27, Nagappa Street, Seshadripuram, Near Central, Bengaluru, Karnataka 560020, India
  Coordinates : (12.9890597, 77.57633540000006) VicinityNo. 27, Nagappa Street, Seshadripuram, Near Central, Bengaluru
 Place_IDChIJVTdE8F8YrjsRORIoHCfswz8 Types : point_of_interest,establishment
-================================
-================================
-Seshadripuram Pre-University College Formatted Address : No. 27, Nagappa Street, Seshadripuram, Near Central, Bengaluru, Karnataka 560020, India
- Coordinates : (12.9890597, 77.57633540000006) VicinityNo. 27, Nagappa Street, Seshadripuram, Near Central, Bengaluru
-Place_IDChIJVTdE8F8YrjsRORIoHCfswz8 Types : point_of_interest,establishment
-================================
-================================
-Seshadripuram Pre-University College Formatted Address : No. 27, Nagappa Street, Seshadripuram, Near Central, Bengaluru, Karnataka 560020, India
- Coordinates : (12.9890597, 77.57633540000006) VicinityNo. 27, Nagappa Street, Seshadripuram, Near Central, Bengaluru
-Place_IDChIJVTdE8F8YrjsRORIoHCfswz8 Types : point_of_interest,establishment
-================================
-Government Science college Formatted Address : Nrupathunga Rd, Ambedkar Veedhi, Sampangi Rama Nagar, Bengaluru, Karnataka 560009, India
- Coordinates : (12.9737215, 77.5858677) VicinityNrupathunga Road, Ambedkar Veedhi, Sampangi Rama Nagar, Bengaluru
-Place_IDChIJrZ1vnHQWrjsRfjkkJ_DGlO8 Types : point_of_interest,establishment
-================================
 K.L.E. Society's S. Nijalingappa College Formatted Address : Rajaji Nagar, 2nd Block, Near Navrang Theatre, Bengaluru, Karnataka 560010, India
  Coordinates : (12.9957883, 77.55327239999997) VicinityRajaji Nagar, 2nd Block, Near Navrang Theatre, Bengaluru
 Place_IDChIJAQAAAPM9rjsRtcj2nzM46TE Types : point_of_interest,establishment
-================================
-================================
-Seshadripuram Pre-University College Formatted Address : No. 27, Nagappa Street, Seshadripuram, Near Central, Bengaluru, Karnataka 560020, India
- Coordinates : (12.9890597, 77.57633540000006) VicinityNo. 27, Nagappa Street, Seshadripuram, Near Central, Bengaluru
-Place_IDChIJVTdE8F8YrjsRORIoHCfswz8 Types : point_of_interest,establishment
-================================
-K.L.E. Society's S. Nijalingappa College Formatted Address : Rajaji Nagar, 2nd Block, Near Navrang Theatre, Bengaluru, Karnataka 560010, India
- Coordinates : (12.9957883, 77.55327239999997) VicinityRajaji Nagar, 2nd Block, Near Navrang Theatre, Bengaluru
-Place_IDChIJAQAAAPM9rjsRtcj2nzM46TE Types : point_of_interest,establishment
-================================
 Animaster Academy Formatted Address : # 3rd Floor, Uniworth Plaza, Next to Nandini Hotel, 20, Sankey's Rd, Lower Palace Orchards, Guttahalli, Bengaluru, Karnataka 560020, India
  Coordinates : (12.999191, 77.58386300000006) Vicinity# 3rd Floor, Uniworth Plaza, Next to Nandini Hotel, 20, Sankey's Road, Lower Palace Orchards, Guttahalli, Bengaluru
 Place_IDChIJu6JWazgWrjsRLxdfLXekf9k Types : university,school,point_of_interest,establishment
-================================
-================================
 Carmel High School Formatted Address : 2nd Block, 3rd Stage, Judges Colony, West of Chord road, Basaveshwara Nagar, Bengaluru, Karnataka 560079, India
  Coordinates : (12.9885786, 77.54433700000004) Vicinity2nd Block, 3rd Stage, Judges Colony, West of Chord road, Basaveshwara Nagar, Bengaluru
 Place_IDChIJjfFlZZI9rjsRMvvHbER1Nf8 Types : school,point_of_interest,establishment
-================================
-================================
-Seshadripuram Pre-University College Formatted Address : No. 27, Nagappa Street, Seshadripuram, Near Central, Bengaluru, Karnataka 560020, India
- Coordinates : (12.9890597, 77.57633540000006) VicinityNo. 27, Nagappa Street, Seshadripuram, Near Central, Bengaluru
-Place_IDChIJVTdE8F8YrjsRORIoHCfswz8 Types : point_of_interest,establishment
-================================
-K.L.E. Society's S. Nijalingappa College Formatted Address : Rajaji Nagar, 2nd Block, Near Navrang Theatre, Bengaluru, Karnataka 560010, India
- Coordinates : (12.9957883, 77.55327239999997) VicinityRajaji Nagar, 2nd Block, Near Navrang Theatre, Bengaluru
-Place_IDChIJAQAAAPM9rjsRtcj2nzM46TE Types : point_of_interest,establishment
-================================
-================================
-K.L.E. Society's S. Nijalingappa College Formatted Address : Rajaji Nagar, 2nd Block, Near Navrang Theatre, Bengaluru, Karnataka 560010, India
- Coordinates : (12.9957883, 77.55327239999997) VicinityRajaji Nagar, 2nd Block, Near Navrang Theatre, Bengaluru
-Place_IDChIJAQAAAPM9rjsRtcj2nzM46TE Types : point_of_interest,establishment
-================================
-Seshadripuram Pre-University College Formatted Address : No. 27, Nagappa Street, Seshadripuram, Near Central, Bengaluru, Karnataka 560020, India
- Coordinates : (12.9890597, 77.57633540000006) VicinityNo. 27, Nagappa Street, Seshadripuram, Near Central, Bengaluru
-Place_IDChIJVTdE8F8YrjsRORIoHCfswz8 Types : point_of_interest,establishment
-================================
-Animaster Academy Formatted Address : # 3rd Floor, Uniworth Plaza, Next to Nandini Hotel, 20, Sankey's Rd, Lower Palace Orchards, Guttahalli, Bengaluru, Karnataka 560020, India
- Coordinates : (12.999191, 77.58386300000006) Vicinity# 3rd Floor, Uniworth Plaza, Next to Nandini Hotel, 20, Sankey's Road, Lower Palace Orchards, Guttahalli, Bengaluru
-Place_IDChIJu6JWazgWrjsRLxdfLXekf9k Types : university,school,point_of_interest,establishment
-================================
 Vidya Mandir Pre University College Formatted Address : West Park Rd, 11th Cross Rd, Malleshwaram, Bengaluru, Karnataka 560003, India
  Coordinates : (13.0023102, 77.57009629999993) VicinityWest Park Rd, 11th Cross Rd, Malleshwaram, Bengaluru
 Place_IDChIJS5D42iQWrjsRzqo87VocrZw Types : point_of_interest,establishment
-================================
 Sri Hombegowda PU College Formatted Address : Mahakavi Kuvempu Rd, Gayatrinagar, Rajaji Nagar, Bengaluru, Karnataka 560021, India
  Coordinates : (12.9981227, 77.55859520000001) VicinityMahakavi Kuvempu Road, Gayatrinagar, Rajaji Nagar, Bengaluru
 Place_IDChIJE8R9PncWrjsRn_ZcVVh-Kz4 Types : point_of_interest,establishment
-================================
 Vivekananda College Of Law Formatted Address : 12/1, 3rd Cross, Maruthi Extension, Gayathrinagar,, Bengaluru, Karnataka 560021, India
  Coordinates : (12.9987594, 77.56162849999998) Vicinity12/1, 3rd Cross, Maruthi Extension, Gayathrinagar,, Bengaluru
 Place_IDChIJ____7ycWrjsR-HH4NJXka7s Types : point_of_interest,establishment
-================================
 K.L.E. Society's Law College Formatted Address : P. Box No: 1059, II Block, Rajajinagar, Bengaluru, Karnataka 560010, India
  Coordinates : (12.995562, 77.55332169999997) VicinityP. Box No: 1059, II Block, Rajajinagar, Bengaluru
 Place_IDChIJ7Y5UPHcWrjsRuKq97Sjs1rY Types : point_of_interest,establishment
-================================
 Dr.B.R. Ambedkar College of Law Formatted Address : No.2, 5th Main Rd, Swatantra Palya, Sevashrama, Bengaluru, Karnataka 560021, India
  Coordinates : (12.9886727, 77.56852430000004) VicinityNo.2, 5th Main Road, Swatantra Palya, Sevashrama, Bengaluru
 Place_IDChIJhcQJCSIWrjsR7aPvwZXYQRM Types : point_of_interest,establishment
-================================
-================================
-================================
-Vivekananda College Of Law Formatted Address : 12/1, 3rd Cross, Maruthi Extension, Gayathrinagar,, Bengaluru, Karnataka 560021, India
- Coordinates : (12.9987594, 77.56162849999998) Vicinity12/1, 3rd Cross, Maruthi Extension, Gayathrinagar,, Bengaluru
-Place_IDChIJ____7ycWrjsR-HH4NJXka7s Types : point_of_interest,establishment
-================================
-K.L.E. Society's S. Nijalingappa College Formatted Address : Rajaji Nagar, 2nd Block, Near Navrang Theatre, Bengaluru, Karnataka 560010, India
- Coordinates : (12.9957883, 77.55327239999997) VicinityRajaji Nagar, 2nd Block, Near Navrang Theatre, Bengaluru
-Place_IDChIJAQAAAPM9rjsRtcj2nzM46TE Types : point_of_interest,establishment
-================================
-================================
-================================
-K.L.E. Society's S. Nijalingappa College Formatted Address : Rajaji Nagar, 2nd Block, Near Navrang Theatre, Bengaluru, Karnataka 560010, India
- Coordinates : (12.9957883, 77.55327239999997) VicinityRajaji Nagar, 2nd Block, Near Navrang Theatre, Bengaluru
-Place_IDChIJAQAAAPM9rjsRtcj2nzM46TE Types : point_of_interest,establishment
-================================
-================================
-================================
-Carmel High School Formatted Address : 2nd Block, 3rd Stage, Judges Colony, West of Chord road, Basaveshwara Nagar, Bengaluru, Karnataka 560079, India
- Coordinates : (12.9885786, 77.54433700000004) Vicinity2nd Block, 3rd Stage, Judges Colony, West of Chord road, Basaveshwara Nagar, Bengaluru
-Place_IDChIJjfFlZZI9rjsRMvvHbER1Nf8 Types : school,point_of_interest,establishment
-================================
 The Cathedral High School Formatted Address : 63, Richmond Road, Bengaluru, Karnataka 560025, India
  Coordinates : (12.9654062, 77.6088608) Vicinity63, Richmond Road, Bengaluru
 Place_IDChIJLdg_2yoUrjsRTRdzjg6XZIs Types : school,point_of_interest,establishment
-================================
 Cluny Convent High School Formatted Address : 11th Main Road, Near-Railway Station, Malleswaram, Bengaluru, Karnataka 560003, India
  Coordinates : (13.0045737, 77.56170359999999) Vicinity11th Main Road, Near-Railway Station, Malleswaram, Bengaluru
 Place_IDChIJh3YRV4c9rjsR8SOYcLaQZqo Types : school,point_of_interest,establishment
-================================
 Baldwin Boys' High School Formatted Address : 14, Hosur Rd, Richmond Town, Bengaluru, Karnataka 560025, India
  Coordinates : (12.962258, 77.60604799999999) Vicinity14, Hosur Road, Richmond Town, Bengaluru
 Place_IDChIJl9kxP9UVrjsRtompNp3Puzo Types : school,point_of_interest,establishment
-================================
 Garden City College Formatted Address : 16th KM, Old Madras Road, Bengaluru, Karnataka 560049, India
  Coordinates : (13.024952, 77.70680300000004) Vicinity16th KM, Old Madras Road, Bengaluru
 Place_IDChIJAYG_FlEQrjsRw8GBWGne2Yg Types : point_of_interest,establishment
-================================
-================================
-================================
 New Horizon College of Engineering Formatted Address : Near Marathalli, Outer Ring Road, Kadubeesanahalli, Bengaluru, Karnataka 560103, India
  Coordinates : (12.933925, 77.69250199999999) VicinityNear Marathalli, Outer Ring Road, Kadubeesanahalli, Bengaluru
 Place_IDChIJAQAAAMsTrjsRwoxxgWLiEKs Types : point_of_interest,establishment
-================================
 MVJ College of Engineering Formatted Address : ITPL Main Road, Near ITPB, Whitefield, Bangalore, Karnataka 560067, India
  Coordinates : (12.9858024, 77.76296609999997) VicinityITPL Main Road, Near ITPB, Whitefield, Bangalore
 Place_IDChIJG4nm3g0OrjsRnRj3p-hz570 Types : point_of_interest,establishment
-================================
-================================
-================================
 Mallya Aditi International School Formatted Address : Behind NIPCCD building, Yelahanka New Town, Bangalore, Karnataka 560106, India
  Coordinates : (13.102403, 77.58317740000007) VicinityBehind NIPCCD building, Yelahanka New Town, Bangalore
 Place_IDChIJx2P-pooYrjsRALgWaIhicbY Types : school,point_of_interest,establishment
-================================
 Sindhi High School Formatted Address : 33/2A,, Kuvempu Rd, Pampa Extension, Hebbal Kempapura, Bengaluru, Karnataka 560024, India
  Coordinates : (13.0501217, 77.59850189999997) Vicinity33/2A,, Kuvempu Road, Pampa Extension, Hebbal Kempapura, Bengaluru
 Place_IDChIJwU0Mt4UXrjsRKUPluy_wQ2s Types : school,point_of_interest,establishment
-================================
 Canadian International School Formatted Address : 4 & 20, Manchenahalli, Yelahanka, Bengaluru, Karnataka 560064, India
  Coordinates : (13.115452, 77.60692799999993) Vicinity4 & 20, Manchenahalli, Yelahanka, Bengaluru
 Place_IDChIJO9bq1IkXrjsROmQPoNq69iQ Types : school,point_of_interest,establishment
-================================
 Trio World Academy - International School Bangalore Formatted Address : 3/5 Kodigehalli Main Road Sahakar Nagar, Bengaluru, Karnataka 560092, India
  Coordinates : (13.059474, 77.58278799999994) Vicinity3/5 Kodigehalli Main Road Sahakar Nagar, Bengaluru
 Place_IDChIJ36DVHB8YrjsRCujgl_TkX6Q Types : school,point_of_interest,establishment
-================================
 Oasis International School Formatted Address : Survey No 90/2 Kadusonapannahalli, Bidarahalli ,Off Hennur Rd, Kannur Post, Bengaluru, Karnataka 562149, India
  Coordinates : (13.0906392, 77.66557220000004) VicinitySurvey No 90/2 Kadusonapannahalli, Bidarahalli ,Off Hennur Rd, Kannur Post, Bengaluru
 Place_IDChIJg7qxSTsarjsRk171bT3M4A8 Types : school,point_of_interest,establishment
-================================
 Srishti School of Art, Design and Technology Formatted Address : C.A Site No.16, Yelahanka New Town, Doddaballapur Road, Opposite Wheel & Axle Plant, Bengaluru, Karnataka 560106, India
  Coordinates : (13.1074673, 77.57609130000003) VicinityC.A Site No.16, Yelahanka New Town, Doddaballapur Road, Opposite Wheel & Axle Plant, Bengaluru
 Place_IDChIJ37IgMIkYrjsRufNm8Qx_xI8 Types : point_of_interest,establishment
-================================
 Presidency College Formatted Address : Kempapura, Near Reliance Fresh, Hebbal, Bengaluru, Karnataka 560024, India
  Coordinates : (13.0505157, 77.59793760000002) VicinityKempapura, Near Reliance Fresh, Hebbal, Bengaluru
 Place_IDChIJP13gvoUXrjsRUvhNt4amGug Types : point_of_interest,establishment
-================================
-================================
 Brindavan College of Engineering Formatted Address : Yelahanka, Bagalur Main Rd, Dwarka Nagar, Bengaluru, Karnataka 560063, India
  Coordinates : (13.1247271, 77.6208838) VicinityYelahanka, Bagalur Main Road, Dwarka Nagar, Bengaluru
 Place_IDChIJ4Ve2lhcZrjsRr20Et68OQeE Types : point_of_interest,establishment
-================================
 BMSIT College Formatted Address : Dodaballapur Road, Avalahalli, Yelahanka, Bengaluru, Karnataka 560064, India
  Coordinates : (13.1339275, 77.56794400000001) VicinityDodaballapur Road, Avalahalli, Yelahanka, Bengaluru
 Place_IDChIJNc5OxaUYrjsRnAumaHrExEk Types : point_of_interest,establishment
-================================
-================================
-================================
-BMSIT College Formatted Address : Dodaballapur Road, Avalahalli, Yelahanka, Bengaluru, Karnataka 560064, India
- Coordinates : (13.1339275, 77.56794400000001) VicinityDodaballapur Road, Avalahalli, Yelahanka, Bengaluru
-Place_IDChIJNc5OxaUYrjsRnAumaHrExEk Types : point_of_interest,establishment
-================================
-Brindavan College of Engineering Formatted Address : Yelahanka, Bagalur Main Rd, Dwarka Nagar, Bengaluru, Karnataka 560063, India
- Coordinates : (13.1247271, 77.6208838) VicinityYelahanka, Bagalur Main Road, Dwarka Nagar, Bengaluru
-Place_IDChIJ4Ve2lhcZrjsRr20Et68OQeE Types : point_of_interest,establishment
-================================
 Sir M Visvesvaraya Institute of Technology Formatted Address : Krishnadeveraya Nagar, Hunasamaranahalli, International Airport Road, Via-Yelahanka, Bangaluru, Karnataka 562157, India
  Coordinates : (13.1512451, 77.60988520000001) VicinityKrishnadeveraya Nagar, Hunasamaranahalli, International Airport Road, Via-Yelahanka, Bangaluru
 Place_IDChIJufPcD9UerjsR1X3veQj-x1U Types : point_of_interest,establishment
-================================
-================================
-Mallya Aditi International School Formatted Address : Behind NIPCCD building, Yelahanka New Town, Bangalore, Karnataka 560106, India
- Coordinates : (13.102403, 77.58317740000007) VicinityBehind NIPCCD building, Yelahanka New Town, Bangalore
-Place_IDChIJx2P-pooYrjsRALgWaIhicbY Types : school,point_of_interest,establishment
-================================
-Canadian International School Formatted Address : 4 & 20, Manchenahalli, Yelahanka, Bengaluru, Karnataka 560064, India
- Coordinates : (13.115452, 77.60692799999993) Vicinity4 & 20, Manchenahalli, Yelahanka, Bengaluru
-Place_IDChIJO9bq1IkXrjsROmQPoNq69iQ Types : school,point_of_interest,establishment
-================================
-================================
-BMSIT College Formatted Address : Dodaballapur Road, Avalahalli, Yelahanka, Bengaluru, Karnataka 560064, India
- Coordinates : (13.1339275, 77.56794400000001) VicinityDodaballapur Road, Avalahalli, Yelahanka, Bengaluru
-Place_IDChIJNc5OxaUYrjsRnAumaHrExEk Types : point_of_interest,establishment
-================================
-Brindavan College of Engineering Formatted Address : Yelahanka, Bagalur Main Rd, Dwarka Nagar, Bengaluru, Karnataka 560063, India
- Coordinates : (13.1247271, 77.6208838) VicinityYelahanka, Bagalur Main Road, Dwarka Nagar, Bengaluru
-Place_IDChIJ4Ve2lhcZrjsRr20Et68OQeE Types : point_of_interest,establishment
-================================
-Sir M Visvesvaraya Institute of Technology Formatted Address : Krishnadeveraya Nagar, Hunasamaranahalli, International Airport Road, Via-Yelahanka, Bangaluru, Karnataka 562157, India
- Coordinates : (13.1512451, 77.60988520000001) VicinityKrishnadeveraya Nagar, Hunasamaranahalli, International Airport Road, Via-Yelahanka, Bangaluru
-Place_IDChIJufPcD9UerjsR1X3veQj-x1U Types : point_of_interest,establishment
-================================
-================================
 Acharya & B.M. Reddy College of Pharmacy Formatted Address : Hesarghatta Road, Soldevanahalli, Chikkabanavara Post, Bengaluru, Karnataka 560090, India
  Coordinates : (13.0846072, 77.48233649999997) VicinityHesarghatta Road, Soldevanahalli, Chikkabanavara Post, Bengaluru
 Place_IDChIJVQkynXMjrjsRptH_JfKG738 Types : point_of_interest,establishment
-================================
 Karnataka Group of Institutions Formatted Address : 33/2, Thirumenahalli,, Hegde main road, Yehalanka Hobli, Bengaluru, Karnataka 560064, India
  Coordinates : (13.11317, 77.57340399999998) Vicinity33/2, Thirumenahalli,, Hegde main road, Yehalanka Hobli, Bengaluru
 Place_IDChIJE8R9PncWrjsRnFjqCqeugL4 Types : point_of_interest,establishment
-================================
 M. S. Engineering College Formatted Address : New International Airport Road, Navarathna Agrahara, Sadahalli, Bengaluru, Karnataka 562110, India
  Coordinates : (13.202902, 77.62265400000001) VicinityNew International Airport Road, Navarathna Agrahara, Sadahalli, Bengaluru
 Place_IDChIJKcKDlFserjsRjcJER79B_GY Types : point_of_interest,establishment
-================================
-Mallya Aditi International School Formatted Address : Behind NIPCCD building, Yelahanka New Town, Bangalore, Karnataka 560106, India
- Coordinates : (13.102403, 77.58317740000007) VicinityBehind NIPCCD building, Yelahanka New Town, Bangalore
-Place_IDChIJx2P-pooYrjsRALgWaIhicbY Types : school,point_of_interest,establishment
-================================
-================================
-BMSIT College Formatted Address : Dodaballapur Road, Avalahalli, Yelahanka, Bengaluru, Karnataka 560064, India
- Coordinates : (13.1339275, 77.56794400000001) VicinityDodaballapur Road, Avalahalli, Yelahanka, Bengaluru
-Place_IDChIJNc5OxaUYrjsRnAumaHrExEk Types : point_of_interest,establishment
-================================
-================================
-Mallya Aditi International School Formatted Address : Behind NIPCCD building, Yelahanka New Town, Bangalore, Karnataka 560106, India
- Coordinates : (13.102403, 77.58317740000007) VicinityBehind NIPCCD building, Yelahanka New Town, Bangalore
-Place_IDChIJx2P-pooYrjsRALgWaIhicbY Types : school,point_of_interest,establishment
-================================
-================================
-================================
 NITTE INTERNATIONAL SCHOOL Formatted Address : No.12, Myllappanahalli, Heseragetta Hobli, Yelahanka, Bengaluru, Karnataka 560089, India
  Coordinates : (13.1396188, 77.53992149999999) VicinityNo.12, Myllappanahalli, Heseragetta Hobli, Yelahanka, Bengaluru
 Place_IDChIJAQAAQPwjrjsR6nZLFS8Rivc Types : school,point_of_interest,establishment
-================================
 NewAge World School Formatted Address : No. 121, Krishnarajapura, Hesaraghatta Hobli, Bengaluru, Karnataka 560088, India
  Coordinates : (13.140245, 77.53955599999995) VicinityNo. 121, Krishnarajapura, Hesaraghatta Hobli, Bengaluru
 Place_IDChIJIZOfUR8irjsRoHEeVcbfkGI Types : school,point_of_interest,establishment
-================================
 SHRI PILLAPPA COLLEGE OF ENGINEERING Formatted Address : No 79, Kondasettihalli Road, Mavallipura, Hesaraghatta Hobli, Bengaluru, Karnataka 560089, India
  Coordinates : (13.1261458, 77.51715949999993) VicinityNo 79, Kondasettihalli Road, Mavallipura, Hesaraghatta Hobli, Bengaluru
 Place_IDChIJlarl2DQirjsRDxDvtL2u3fA Types : point_of_interest,establishment
-================================
-================================
-BMSIT College Formatted Address : Dodaballapur Road, Avalahalli, Yelahanka, Bengaluru, Karnataka 560064, India
- Coordinates : (13.1339275, 77.56794400000001) VicinityDodaballapur Road, Avalahalli, Yelahanka, Bengaluru
-Place_IDChIJNc5OxaUYrjsRnAumaHrExEk Types : point_of_interest,establishment
-================================
-================================
-================================
-NITTE INTERNATIONAL SCHOOL Formatted Address : No.12, Myllappanahalli, Heseragetta Hobli, Yelahanka, Bengaluru, Karnataka 560089, India
- Coordinates : (13.1396188, 77.53992149999999) VicinityNo.12, Myllappanahalli, Heseragetta Hobli, Yelahanka, Bengaluru
-Place_IDChIJAQAAQPwjrjsR6nZLFS8Rivc Types : school,point_of_interest,establishment
-================================
-NewAge World School Formatted Address : No. 121, Krishnarajapura, Hesaraghatta Hobli, Bengaluru, Karnataka 560088, India
- Coordinates : (13.140245, 77.53955599999995) VicinityNo. 121, Krishnarajapura, Hesaraghatta Hobli, Bengaluru
-Place_IDChIJIZOfUR8irjsRoHEeVcbfkGI Types : school,point_of_interest,establishment
-================================
 Sita School Formatted Address : Unnamed Rd, Bengaluru, Karnataka 560088, India
  Coordinates : (13.1160971, 77.4957286) VicinityUnnamed Rd, Bengaluru, Karnataka 560088
 Place_IDChIJMZxfYb4jrjsRc2koFHeSTz0 Types : school,point_of_interest,establishment
-================================
 National Public School Formatted Address : Bilijaji Road, Aivarkhandpur, Hesaraghatta, Karnataka 560088, India
  Coordinates : (13.1325896, 77.47709850000001) VicinityBilijaji Road, Aivarkhandpur, Hesaraghatta
 Place_IDChIJpwwNFfojrjsRn6ThJ98uxZc Types : school,point_of_interest,establishment
-================================
 Vivekananda Vidyavardhaka High School Formatted Address : Hesarghatta Main Rd, Aivarkhandpur, Bengaluru, Karnataka 560088, India
  Coordinates : (13.1384063, 77.46956980000004) VicinityHesarghatta Main Road, Aivarkhandpur, Bengaluru
 Place_IDChIJESk7kAAkrjsR8y9n7Kti4BQ Types : school,point_of_interest,establishment
-================================
 BGS SCHOOL Formatted Address : Guddadahalli, Karnataka, India
  Coordinates : (13.1444147, 77.45230270000002) VicinityGuddadahalli
 Place_IDChIJr1daL6EmrjsRdaVemEnv3FE Types : school,point_of_interest,establishment
-================================
 Sri Basaveswara Rural High School Formatted Address : Totagere, Bengaluru, Karnataka 560089, India
  Coordinates : (13.138733, 77.45269600000006) VicinityTotagere, Bengaluru
 Place_IDChIJO31LeR4krjsRZqttkkBUV1o Types : school,point_of_interest,establishment
-================================
 Government Lower Primary School Kasaraghatta Formatted Address : Kasaraghatta, Bengaluru, Nelamangala, Karnataka 562123, India
  Coordinates : (13.137758, 77.47920699999997) VicinityKasaraghatta, Bengaluru, Nelamangala
 Place_IDChIJpQ3ajvwjrjsRn1DdyEkOLz4 Types : school,point_of_interest,establishment
-================================
 St'annes School Formatted Address : Hesarghatta Main Rd, Aivarkhandpur, Hesaraghatta, Karnataka 562123, India
  Coordinates : (13.1356864, 77.48118539999996) VicinityHesarghatta Main Road, Aivarkhandpur, Hesaraghatta
 Place_IDChIJh3mmSfsjrjsRmCUMDFGmDGM Types : school,point_of_interest,establishment
-================================
 GMP School Formatted Address : Rd, Bilijaji, Hesaraghatta, Karnataka 560088, India
  Coordinates : (13.136964, 77.47773870000003) VicinityRd, Bilijaji, Hesaraghatta
 Place_IDChIJ6QOBdvwjrjsR6z2b4qbhc2A Types : school,point_of_interest,establishment
-================================
-================================
-================================
-SHRI PILLAPPA COLLEGE OF ENGINEERING Formatted Address : No 79, Kondasettihalli Road, Mavallipura, Hesaraghatta Hobli, Bengaluru, Karnataka 560089, India
- Coordinates : (13.1261458, 77.51715949999993) VicinityNo 79, Kondasettihalli Road, Mavallipura, Hesaraghatta Hobli, Bengaluru
-Place_IDChIJlarl2DQirjsRDxDvtL2u3fA Types : point_of_interest,establishment
-================================
 Mallige College Of Pharmacy Formatted Address : 71, Silvepura, Chikkabanavara, Chikkabanavara, Bengaluru, Karnataka 560088, India
  Coordinates : (13.1105677, 77.49618080000005) Vicinity71, Silvepura, Chikkabanavara, Chikkabanavara, Bengaluru
 Place_IDChIJVVVV0bsjrjsR4t0KZ7GkIi8 Types : point_of_interest,establishment
-================================
 R R Pharmacy College Formatted Address : 67 Raja Reddy Layout, Heseraghatta Main Road, Nr Chikkabanavara Railway Station, Bengaluru, Karnataka 560090, India
  Coordinates : (13.138171, 77.47736699999996) Vicinity67 Raja Reddy Layout, Heseraghatta Main Road, Nr Chikkabanavara Railway Station, Bengaluru
 Place_IDChIJYVVVFfwjrjsRmTt4E0S1LKg Types : point_of_interest,establishment
-================================
-================================
-================================
-National Public School Formatted Address : Bilijaji Road, Aivarkhandpur, Hesaraghatta, Karnataka 560088, India
- Coordinates : (13.1325896, 77.47709850000001) VicinityBilijaji Road, Aivarkhandpur, Hesaraghatta
-Place_IDChIJpwwNFfojrjsRn6ThJ98uxZc Types : school,point_of_interest,establishment
-================================
-R R Pharmacy College Formatted Address : 67 Raja Reddy Layout, Heseraghatta Main Road, Nr Chikkabanavara Railway Station, Bengaluru, Karnataka 560090, India
- Coordinates : (13.138171, 77.47736699999996) Vicinity67 Raja Reddy Layout, Heseraghatta Main Road, Nr Chikkabanavara Railway Station, Bengaluru
-Place_IDChIJYVVVFfwjrjsRmTt4E0S1LKg Types : point_of_interest,establishment
-================================
-================================
-National Public School Formatted Address : Bilijaji Road, Aivarkhandpur, Hesaraghatta, Karnataka 560088, India
- Coordinates : (13.1325896, 77.47709850000001) VicinityBilijaji Road, Aivarkhandpur, Hesaraghatta
-Place_IDChIJpwwNFfojrjsRn6ThJ98uxZc Types : school,point_of_interest,establishment
-================================
-Government Lower Primary School Kasaraghatta Formatted Address : Kasaraghatta, Bengaluru, Nelamangala, Karnataka 562123, India
- Coordinates : (13.137758, 77.47920699999997) VicinityKasaraghatta, Bengaluru, Nelamangala
-Place_IDChIJpQ3ajvwjrjsRn1DdyEkOLz4 Types : school,point_of_interest,establishment
-================================
-Vivekananda Vidyavardhaka High School Formatted Address : Hesarghatta Main Rd, Aivarkhandpur, Bengaluru, Karnataka 560088, India
- Coordinates : (13.1384063, 77.46956980000004) VicinityHesarghatta Main Road, Aivarkhandpur, Bengaluru
-Place_IDChIJESk7kAAkrjsR8y9n7Kti4BQ Types : school,point_of_interest,establishment
-================================
-================================
-Sri Basaveswara Rural High School Formatted Address : Totagere, Bengaluru, Karnataka 560089, India
- Coordinates : (13.138733, 77.45269600000006) VicinityTotagere, Bengaluru
-Place_IDChIJO31LeR4krjsRZqttkkBUV1o Types : school,point_of_interest,establishment
-================================
-GMP School Formatted Address : Rd, Bilijaji, Hesaraghatta, Karnataka 560088, India
- Coordinates : (13.136964, 77.47773870000003) VicinityRd, Bilijaji, Hesaraghatta
-Place_IDChIJ6QOBdvwjrjsR6z2b4qbhc2A Types : school,point_of_interest,establishment
-================================
-R R Pharmacy College Formatted Address : 67 Raja Reddy Layout, Heseraghatta Main Road, Nr Chikkabanavara Railway Station, Bengaluru, Karnataka 560090, India
- Coordinates : (13.138171, 77.47736699999996) Vicinity67 Raja Reddy Layout, Heseraghatta Main Road, Nr Chikkabanavara Railway Station, Bengaluru
-Place_IDChIJYVVVFfwjrjsRmTt4E0S1LKg Types : point_of_interest,establishment
-================================
-================================
-================================
-================================
 Faith Institute of Nursing Sciences Formatted Address : Faith City, Mylappanahlli, Shivakote Post, Bengaluru, Karnataka 560089, India
  Coordinates : (13.1635584, 77.4472495) VicinityFaith City, Mylappanahlli, Shivakote Post, Bengaluru
 Place_IDChIJ_____78mrjsRb9zp3vhY_VE Types : point_of_interest,establishment
-================================
 lakshminath - school (changed) Formatted Address : Bengaluru, Karnataka 560089, India
  Coordinates : (13.1864402, 77.4862799) VicinityBengaluru
 Place_IDChIJf_LHPichrjsRg9i-fw-f7aU Types : school,point_of_interest,establishment
-================================
 Vagdevi School Of Nursing Formatted Address : Pipeline, Hesaraghatta Main Road, Chikkabanavara, Chikkabanavara, Bengaluru, Karnataka 560089, India
  Coordinates : (13.1585359, 77.48883879999994) VicinityPipeline, Hesaraghatta Main Road, Chikkabanavara, Chikkabanavara, Bengaluru
 Place_IDChIJAQAAQPwjrjsRxBfxewrcum4 Types : school,point_of_interest,establishment
-================================
-Vagdevi School Of Nursing Formatted Address : Pipeline, Hesaraghatta Main Road, Chikkabanavara, Chikkabanavara, Bengaluru, Karnataka 560089, India
- Coordinates : (13.1585359, 77.48883879999994) VicinityPipeline, Hesaraghatta Main Road, Chikkabanavara, Chikkabanavara, Bengaluru
-Place_IDChIJAQAAQPwjrjsRxBfxewrcum4 Types : school,point_of_interest,establishment
-================================
 Byatha Government Primary & High School Formatted Address : Bengaluru, Karnataka 560089, India
  Coordinates : (13.1928061, 77.48416900000007) VicinityBengaluru
 Place_IDChIJyWZ-m9kgrjsRDeLF1rmhAUU Types : school,point_of_interest,establishment
-================================
 St Annes High School Formatted Address : Hesaraghatta, Bengaluru, Karnataka 560089, India
  Coordinates : (13.1585359, 77.48883879999994) VicinityHesaraghatta, Bengaluru
 Place_IDChIJAQAAQPwjrjsRn3Ot6WIOM_g Types : school,point_of_interest,establishment
-================================
 Nrityagram Dance Village Formatted Address : Hessaraghatta P O, Bengaluru, Karnataka 560088, India
  Coordinates : (13.1633386, 77.45991779999997) VicinityHessaraghatta P O, Bengaluru
 Place_IDChIJ-a7fHGsWrjsRkGlvk5Vt0S4 Types : point_of_interest,establishment
-================================
 Secred Heart High School Formatted Address : Siluvepura, Tarabandhalli, Chikkabanavara, Chikkabanavara, Bengaluru, Karnataka 560090, India
  Coordinates : (13.1585359, 77.48883879999994) VicinitySiluvepura, Tarabandhalli, Chikkabanavara, Chikkabanavara, Bengaluru
 Place_IDChIJE8R9PncWrjsRqAfJt5IpVLo Types : point_of_interest,establishment
-================================
 Government Higher Primary School Kannamangala Formatted Address : Kannamangala, Bangalore, Doddaballapura, Karnataka 560067, India
  Coordinates : (13.1874567, 77.41568889999996) VicinityKannamangala, Bangalore, Doddaballapura
 Place_IDChIJraqqqq0nrjsRNXzLl8fQlGM Types : school,point_of_interest,establishment
-================================
-================================
-Faith Institute of Nursing Sciences Formatted Address : Faith City, Mylappanahlli, Shivakote Post, Bengaluru, Karnataka 560089, India
- Coordinates : (13.1635584, 77.4472495) VicinityFaith City, Mylappanahlli, Shivakote Post, Bengaluru
-Place_IDChIJ_____78mrjsRb9zp3vhY_VE Types : point_of_interest,establishment
-================================
-================================
-Nrityagram Dance Village Formatted Address : Hessaraghatta P O, Bengaluru, Karnataka 560088, India
- Coordinates : (13.1633386, 77.45991779999997) VicinityHessaraghatta P O, Bengaluru
-Place_IDChIJ-a7fHGsWrjsRkGlvk5Vt0S4 Types : point_of_interest,establishment
-================================
-Faith Institute of Nursing Sciences Formatted Address : Faith City, Mylappanahlli, Shivakote Post, Bengaluru, Karnataka 560089, India
- Coordinates : (13.1635584, 77.4472495) VicinityFaith City, Mylappanahlli, Shivakote Post, Bengaluru
-Place_IDChIJ_____78mrjsRb9zp3vhY_VE Types : point_of_interest,establishment
-================================
-================================
-================================
-Karnataka Group of Institutions Formatted Address : 33/2, Thirumenahalli,, Hegde main road, Yehalanka Hobli, Bengaluru, Karnataka 560064, India
- Coordinates : (13.11317, 77.57340399999998) Vicinity33/2, Thirumenahalli,, Hegde main road, Yehalanka Hobli, Bengaluru
-Place_IDChIJE8R9PncWrjsRnFjqCqeugL4 Types : point_of_interest,establishment
-================================
-Acharya & B.M. Reddy College of Pharmacy Formatted Address : Hesarghatta Road, Soldevanahalli, Chikkabanavara Post, Bengaluru, Karnataka 560090, India
- Coordinates : (13.0846072, 77.48233649999997) VicinityHesarghatta Road, Soldevanahalli, Chikkabanavara Post, Bengaluru
-Place_IDChIJVQkynXMjrjsRptH_JfKG738 Types : point_of_interest,establishment
-================================
-M. S. Engineering College Formatted Address : New International Airport Road, Navarathna Agrahara, Sadahalli, Bengaluru, Karnataka 562110, India
- Coordinates : (13.202902, 77.62265400000001) VicinityNew International Airport Road, Navarathna Agrahara, Sadahalli, Bengaluru
-Place_IDChIJKcKDlFserjsRjcJER79B_GY Types : point_of_interest,establishment
-================================
-Brindavan College of Engineering Formatted Address : Yelahanka, Bagalur Main Rd, Dwarka Nagar, Bengaluru, Karnataka 560063, India
- Coordinates : (13.1247271, 77.6208838) VicinityYelahanka, Bagalur Main Road, Dwarka Nagar, Bengaluru
-Place_IDChIJ4Ve2lhcZrjsRr20Et68OQeE Types : point_of_interest,establishment
-================================
-BMSIT College Formatted Address : Dodaballapur Road, Avalahalli, Yelahanka, Bengaluru, Karnataka 560064, India
- Coordinates : (13.1339275, 77.56794400000001) VicinityDodaballapur Road, Avalahalli, Yelahanka, Bengaluru
-Place_IDChIJNc5OxaUYrjsRnAumaHrExEk Types : point_of_interest,establishment
-================================
-Sir M Visvesvaraya Institute of Technology Formatted Address : Krishnadeveraya Nagar, Hunasamaranahalli, International Airport Road, Via-Yelahanka, Bangaluru, Karnataka 562157, India
- Coordinates : (13.1512451, 77.60988520000001) VicinityKrishnadeveraya Nagar, Hunasamaranahalli, International Airport Road, Via-Yelahanka, Bangaluru
-Place_IDChIJufPcD9UerjsR1X3veQj-x1U Types : point_of_interest,establishment
-================================
 KNN College Of Nursing Formatted Address : 23/B, A Sector, Yelahanka New Town, Bengaluru, Karnataka 560064, India
  Coordinates : (13.0989677, 77.58622170000001) Vicinity23/B, A Sector, Yelahanka New Town, Bengaluru
 Place_IDChIJVVVVVYgYrjsRS_va44gf1S8 Types : school,point_of_interest,establishment
-================================
 NITTE Meenakshi Institute of Technology Formatted Address : Govindpura, Gollahalli, Yelahanaka, Bengaluru, Karnataka 560064, India
  Coordinates : (13.1284641, 77.58730800000001) VicinityGovindpura, Gollahalli, Yelahanaka, Bengaluru
 Place_IDChIJm1W7EA0XrjsRuvlsYiqJsys Types : point_of_interest,establishment
-================================
 Karnataka College of Pharmacy Formatted Address : Campus # 33/2, Thirumenahalli, Hegde Nagar Main Road, Jakkur Post, Yelahanka, Hobli, Bengaluru, Karnataka 560064, India
  Coordinates : (13.0861773, 77.6357375) VicinityCampus # 33/2, Thirumenahalli, Hegde Nagar Main Road, Jakkur Post, Yelahanka, Hobli, Bengaluru
 Place_IDChIJPcUxbJQZrjsRumZ386vL58c Types : point_of_interest,establishment
-================================
 Ramakrishna Ayurvedic Medical College Formatted Address : # 54/2 Ramagondanahalli, Yelahanka, Bengaluru, Karnataka 560064, India
  Coordinates : (13.119876, 77.55440999999996) Vicinity# 54/2 Ramagondanahalli, Yelahanka, Bengaluru
 Place_IDChIJAQAAwLc9rjsR69aBWRv9DZ4 Types : point_of_interest,establishment
-================================
-================================
-================================
-================================
-================================
-================================
 M S Ramaiah Dental College Formatted Address : MSRIT Post, M S R Nagar, Bengaluru, Karnataka 560054, India
  Coordinates : (13.0290391, 77.56930369999998) VicinityMSRIT Post, M S R Nagar, Bengaluru
 Place_IDChIJtbi1vdoXrjsRcXhaWMUs_t0 Types : point_of_interest,establishment
-================================
-================================
 SG International School Formatted Address : 18, Saraswathipuram, Nandini Layout, Bengaluru, Karnataka 560096, India
  Coordinates : (13.0109327, 77.53951469999993) Vicinity18, Saraswathipuram, Nandini Layout, Bengaluru
 Place_IDChIJS-i6SXU9rjsR7WpPP3vFHGs Types : school,point_of_interest,establishment
-================================
-================================
 St Claret Pre University College Formatted Address : Mes Road, Jalahalli, Jalahalli, Bengaluru, Karnataka 560013, India
  Coordinates : (13.0354786, 77.54133009999998) VicinityMes Road, Jalahalli, Jalahalli, Bengaluru
 Place_IDChIJQ_h2UEA9rjsRMq6VUJOnnIM Types : point_of_interest,establishment
-================================
 C N K Reddy College of Pharmacy Formatted Address : Shankar Nagar, Nandini Layout, Bengaluru, Karnataka 560096, India
  Coordinates : (13.0175621, 77.5410263) VicinityShankar Nagar, Nandini Layout, Bengaluru
 Place_IDChIJ7ceBGnM9rjsReJIqnfxNu7g Types : university,point_of_interest,establishment
-================================
 KLE Institute of Dental Sciences Dental Hospital & Research Centre Formatted Address : No. 20, Yeshwanthpur, Suburb, IInd Stage, Tumkur Road, Bengaluru, Karnataka 560022, India
  Coordinates : (13.0305939, 77.53555210000002) VicinityNo. 20, Yeshwanthpur, Suburb, IInd Stage, Tumkur Road, Bengaluru
 Place_IDChIJq6qqPj49rjsRTEpZCg-No2M Types : hospital,point_of_interest,establishment
-================================
 AIMS Institutes of higher Education Formatted Address : 1st Cross, 1st Stage, Peenya, Bengaluru, Karnataka 560058, India
  Coordinates : (13.035561, 77.51872600000002) Vicinity1st Cross, 1st Stage, Peenya, Bengaluru
 Place_IDChIJCVyD4CA9rjsRslOkbxvHe7U Types : point_of_interest,establishment
-================================
 Ganga International School and PU College Formatted Address : Near Gruhalakshmi Layout, Nelagadaranahalli, Nagasandra Post, Bengaluru, Karnataka 560079, India
  Coordinates : (13.0284929, 77.49602579999998) VicinityNear Gruhalakshmi Layout, Nelagadaranahalli, Nagasandra Post, Bengaluru
 Place_IDChIJgch8zKI9rjsRWQLGyFTQXIU Types : school,point_of_interest,establishment
-================================
-================================
-KLE Institute of Dental Sciences Dental Hospital & Research Centre Formatted Address : No. 20, Yeshwanthpur, Suburb, IInd Stage, Tumkur Road, Bengaluru, Karnataka 560022, India
- Coordinates : (13.0305939, 77.53555210000002) VicinityNo. 20, Yeshwanthpur, Suburb, IInd Stage, Tumkur Road, Bengaluru
-Place_IDChIJq6qqPj49rjsRTEpZCg-No2M Types : hospital,point_of_interest,establishment
-================================
-================================
 Kle Dental College And Pharmacy College Hostel Formatted Address : Raja Industrial Estate, Yeshwanthpur, Bengaluru, Karnataka, India
  Coordinates : (13.0306399, 77.53520070000002) VicinityRaja Industrial Estate, Yeshwanthpur, Bengaluru
 Place_IDChIJh169vRU9rjsRtdyIpEOfnGQ Types : lodging,point_of_interest,establishment
-================================
 Soundarya High School Formatted Address : Soundarya Road, Havanoor Extension, Nagasandra Post, Bengaluru, Karnataka 560073, India
  Coordinates : (13.0246855, 77.52333470000008) VicinitySoundarya Road, Havanoor Extension, Nagasandra Post, Bengaluru
 Place_IDChIJE8R9PncWrjsR-0hdDTRzvF0 Types : school,point_of_interest,establishment
-================================
 National Public School Formatted Address : 9/1, Pipeline Road, Raghavendra Layout, Yeshwanthpur, Bengaluru, Karnataka 560022, India
  Coordinates : (13.0303142, 77.54425049999998) Vicinity9/1, Pipeline Road, Raghavendra Layout, Yeshwanthpur, Bengaluru
 Place_IDChIJuSbvqns9rjsRbyxG5A7u0Ks Types : school,point_of_interest,establishment
-================================
 Scholar Clothing Co. Formatted Address : No. 848, 4th Cross, 1st Stage, Peenya Industrial Estate, Bengaluru, Karnataka 560058, India
  Coordinates : (13.0322502, 77.52537810000001) VicinityNo. 848, 4th Cross, 1st Stage, Peenya Industrial Estate, Bengaluru
 Place_IDChIJnzQyhSI9rjsRx9Im8GZIIHU Types : point_of_interest,establishment
-================================
-================================
-================================
-M S Ramaiah Dental College Formatted Address : MSRIT Post, M S R Nagar, Bengaluru, Karnataka 560054, India
- Coordinates : (13.0290391, 77.56930369999998) VicinityMSRIT Post, M S R Nagar, Bengaluru
-Place_IDChIJtbi1vdoXrjsRcXhaWMUs_t0 Types : point_of_interest,establishment
-================================
-================================
 M. S. Ramaiah College of Law Formatted Address : MSR Nagar, MSRIT Campus, MSRIT Post,, Bengaluru, Karnataka 560054, India
  Coordinates : (13.031497, 77.56542000000002) VicinityMSR Nagar, MSRIT Campus, MSRIT Post,, Bengaluru
 Place_IDChIJtbi1vdoXrjsRWOGjrbA9CAs Types : point_of_interest,establishment
-================================
 M S Ramaiah College Of Pharmacy Formatted Address : M.S.R Nagar , M.S.R.I.T Post, Bengaluru, Karnataka 560054, India
  Coordinates : (13.0292569, 77.56729399999995) VicinityM.S.R Nagar , M.S.R.I.T Post, Bengaluru
 Place_IDChIJE8R9PncWrjsRgGkvqEldwuE Types : point_of_interest,establishment
-================================
 M.S.Ramaiah College of Hotel Management Formatted Address : M S Ramaiah Nagar, Mathikere, Bengaluru, Karnataka 560054, India
  Coordinates : (13.0286737, 77.5702258) VicinityM S Ramaiah Nagar, Mathikere, Bengaluru
 Place_IDChIJZfygGt8XrjsRzbhwG4ikUjY Types : point_of_interest,establishment
-================================
 M.S. Ramaiah Institute of Technology Formatted Address : MSR College Road, MSR Nagar, Bengaluru, Karnataka 560054, India
  Coordinates : (13.0311221, 77.56516469999997) VicinityMSR College Road, MSR Nagar, Bengaluru
 Place_IDChIJqcxN3d4XrjsRq5ftio29dWA Types : point_of_interest,establishment
-================================
 MS Ramaiah College Of Arts Science & Commerce Formatted Address : MSR Nagar, MSRIT Post, Bengaluru, Karnataka 560054, India
  Coordinates : (13.0299765, 77.56405799999993) VicinityMSR Nagar, MSRIT Post, Bengaluru
 Place_IDChIJbVUEEN8XrjsRT57nALvapLM Types : point_of_interest,establishment
-================================
 Maharani's - Textile Show Room Formatted Address : 1st Main Road, Near-Divine P U College, Yeshwanthpur, Bengaluru, Karnataka 560022, India
  Coordinates : (13.021367, 77.55611699999997) Vicinity1st Main Road, Near-Divine P U College, Yeshwanthpur, Bengaluru
 Place_IDChIJC-NHVns9rjsRRYKSnzygCI8 Types : point_of_interest,establishment
-================================
 M. S. Ramaiah Medical College Formatted Address : MSR College Road, MSR Nagar, MSRIT Post, Mathikere, Bengaluru, Karnataka 560054, India
  Coordinates : (13.0304874, 77.56664920000003) VicinityMSR College Road, MSR Nagar, MSRIT Post, Mathikere, Bengaluru
 Place_IDChIJBZJTwtgVrjsRBAp7SIgHUKM Types : point_of_interest,establishment
-================================
 M.S.Ramaiah Institute of Nursing Education and Research, Bangalore Formatted Address : MS Ramaiah Nagar, MSRIT Post, Near MS Ramaiah Medical Teaching Hospital, Bangaore, Karnataka 560054, India
  Coordinates : (13.0298465, 77.56749990000003) VicinityMS Ramaiah Nagar, MSRIT Post, Near MS Ramaiah Medical Teaching Hospital, Bangaore
 Place_IDChIJh71hd9wXrjsR8raeciiAapA Types : point_of_interest,establishment
-================================
-================================
-M S Ramaiah Dental College Formatted Address : MSRIT Post, M S R Nagar, Bengaluru, Karnataka 560054, India
- Coordinates : (13.0290391, 77.56930369999998) VicinityMSRIT Post, M S R Nagar, Bengaluru
-Place_IDChIJtbi1vdoXrjsRcXhaWMUs_t0 Types : point_of_interest,establishment
-================================
-================================
 BEL School and College Formatted Address : Jalahalli, Bengaluru, Karnataka 560013, India
  Coordinates : (13.0490105, 77.55513530000007) VicinityJalahalli, Bengaluru
 Place_IDChIJ0y1EXFE9rjsRkbGFt2qyr5U Types : school,point_of_interest,establishment
-================================
 Akai Public School Formatted Address : 28, Chennamma Kalyana Mantapa Road, R M V 2nd Stage, Near-Munishwara Temple, Nagashetty Halli, Bengaluru, Karnataka 560094, India
  Coordinates : (13.039433, 77.57314999999994) Vicinity28, Chennamma Kalyana Mantapa Road, R M V 2nd Stage, Near-Munishwara Temple, Nagashetty Halli, Bengaluru
 Place_IDChIJLyMZAeYXrjsRt0nYuYcWnr4 Types : school,point_of_interest,establishment
-================================
 National Public School Formatted Address : 8th Main Road, 11th Main Rd, Muthyala Nagar, Bandappa Garden, Mathikere, Bengaluru, Karnataka 560054, India
  Coordinates : (13.039576, 77.54921549999995) Vicinity8th Main Road, 11th Main Road, Muthyala Nagar, Bandappa Garden, Mathikere, Bengaluru
 Place_IDChIJVSN9vkQ9rjsRx83fYV4hMyw Types : school,point_of_interest,establishment
-================================
 Global Institute for Corporate Education (GICE) Formatted Address : 1st Main Rd, RMV 2nd Stage, Lottegollahalli, RMV Extension Stage 2, Bengaluru, Karnataka 560094, India
  Coordinates : (13.039689, 77.57029399999999) Vicinity1st Main Road, RMV 2nd Stage, Lottegollahalli, RMV Extension Stage 2, Bengaluru
 Place_IDChIJL0dTNOEXrjsR4wbuyEItphw Types : school,point_of_interest,establishment
-================================
 Mother Teresa High School Formatted Address : M.E.S. Ring Road, Muthyala Nagar, Jalahalli, Bengaluru, Karnataka 560013, India
  Coordinates : (13.0433861, 77.55112800000006) VicinityM.E.S. Ring Road, Muthyala Nagar, Jalahalli, Bengaluru
 Place_IDChIJ_2GauVo9rjsRR8MvQriyP2Y Types : school,point_of_interest,establishment
-================================
 Brindavan College Formatted Address : 2nd Cross, Vinayaka Layout, Bhoopasandra, R.M.V. Extn, 2nd Stage, Bengaluru, Karnataka 560094, India
  Coordinates : (13.0443295, 77.58045229999993) Vicinity2nd Cross, Vinayaka Layout, Bhoopasandra, R.M.V. Extn, 2nd Stage, Bengaluru
 Place_IDChIJt1I37-0XrjsRdf5GttWVhGE Types : school,point_of_interest,establishment
-================================
 Noor College Of Nursing Formatted Address : 5, Noor Building, Near-H A Farm Road, Bhoopasandra Main Rd, RMV Extension Stage 2, Bengaluru, Karnataka 560094, India
  Coordinates : (13.042408, 77.58226300000001) Vicinity5, Noor Building, Near-H A Farm Road, Bhoopasandra Main Road, RMV Extension Stage 2, Bengaluru
 Place_IDChIJoyygV-wXrjsRIbLPCqXUEWI Types : school,point_of_interest,establishment
-================================
-Brindavan College Formatted Address : 2nd Cross, Vinayaka Layout, Bhoopasandra, R.M.V. Extn, 2nd Stage, Bengaluru, Karnataka 560094, India
- Coordinates : (13.0443295, 77.58045229999993) Vicinity2nd Cross, Vinayaka Layout, Bhoopasandra, R.M.V. Extn, 2nd Stage, Bengaluru
-Place_IDChIJt1I37-0XrjsRdf5GttWVhGE Types : school,point_of_interest,establishment
-================================
-================================
-Brindavan College Formatted Address : 2nd Cross, Vinayaka Layout, Bhoopasandra, R.M.V. Extn, 2nd Stage, Bengaluru, Karnataka 560094, India
- Coordinates : (13.0443295, 77.58045229999993) Vicinity2nd Cross, Vinayaka Layout, Bhoopasandra, R.M.V. Extn, 2nd Stage, Bengaluru
-Place_IDChIJt1I37-0XrjsRdf5GttWVhGE Types : school,point_of_interest,establishment
-================================
-Noor College Of Nursing Formatted Address : 5, Noor Building, Near-H A Farm Road, Bhoopasandra Main Rd, RMV Extension Stage 2, Bengaluru, Karnataka 560094, India
- Coordinates : (13.042408, 77.58226300000001) Vicinity5, Noor Building, Near-H A Farm Road, Bhoopasandra Main Road, RMV Extension Stage 2, Bengaluru
-Place_IDChIJoyygV-wXrjsRIbLPCqXUEWI Types : school,point_of_interest,establishment
-================================
-BEL School and College Formatted Address : Jalahalli, Bengaluru, Karnataka 560013, India
- Coordinates : (13.0490105, 77.55513530000007) VicinityJalahalli, Bengaluru
-Place_IDChIJ0y1EXFE9rjsRkbGFt2qyr5U Types : school,point_of_interest,establishment
-================================
 BEL PU College Formatted Address : Near BEL factory, Vidyaranyapura Rd, Jalahalli, Bengaluru, Karnataka 560013, India
  Coordinates : (13.0502935, 77.55537630000003) VicinityNear BEL factory, Vidyaranyapura Road, Jalahalli, Bengaluru
 Place_IDChIJ4TUa41M9rjsRJeiUKoB0w_k Types : point_of_interest,establishment
-================================
 Vyasa International School Formatted Address : No.101/2, BEL North Gate, Dodda, Bommasandra, Vidyaranyapura Post,, Bengaluru, Karnataka 560097, India
  Coordinates : (13.054433, 77.56856900000002) VicinityNo.101/2, BEL North Gate, Dodda, Bommasandra, Vidyaranyapura Post,, Bengaluru
 Place_IDChIJU8nB2vgXrjsR48oZ725g_aI Types : school,point_of_interest,establishment
-================================
-Mother Teresa High School Formatted Address : M.E.S. Ring Road, Muthyala Nagar, Jalahalli, Bengaluru, Karnataka 560013, India
- Coordinates : (13.0433861, 77.55112800000006) VicinityM.E.S. Ring Road, Muthyala Nagar, Jalahalli, Bengaluru
-Place_IDChIJ_2GauVo9rjsRR8MvQriyP2Y Types : school,point_of_interest,establishment
-================================
-================================
-================================
 St.Claret Pre-University Formatted Address : No. 1355, 5th Cross, 1st Main, Off MES Ring Road, Sharadamba Nagar, Jalahalli, Bengaluru, Karnataka 560013, India
  Coordinates : (13.0441175, 77.54380100000003) VicinityNo. 1355, 5th Cross, 1st Main, Off MES Ring Road, Sharadamba Nagar, Jalahalli, Bengaluru
 Place_IDChIJRRzupkg9rjsRphAXwgky-5E Types : point_of_interest,establishment
-================================
-================================
-================================
 Cluny Convent High School Jalahalli Formatted Address : S M Road, Jalahalli post, Bengaluru, Karnataka 560013, India
  Coordinates : (13.055196, 77.54062499999998) VicinitySubroto Mukherjee Road, Jalahalli post, Bengaluru
 Place_IDChIJf1RpNbUirjsR4gi-ptKtJuc Types : school,point_of_interest,establishment
-================================
-================================
-================================
-================================
-================================
 University of Agricultural Sciences Formatted Address : NH7, near L&T Factory, gadhi Krushi, Vignana Kendra, Bengaluru, Karnataka 560065, India
  Coordinates : (13.0778794, 77.57906559999992) VicinityNH7, near L&T Factory, gadhi Krushi, Vignana Kendra, Bengaluru
 Place_IDChIJq6qqOusXrjsR7rryopddT_M Types : point_of_interest,establishment
-================================
-================================
-================================
-Garden City College Formatted Address : 16th KM, Old Madras Road, Bengaluru, Karnataka 560049, India
- Coordinates : (13.024952, 77.70680300000004) Vicinity16th KM, Old Madras Road, Bengaluru
-Place_IDChIJAYG_FlEQrjsRw8GBWGne2Yg Types : point_of_interest,establishment
-================================
-================================
-Garden City College Formatted Address : 16th KM, Old Madras Road, Bengaluru, Karnataka 560049, India
- Coordinates : (13.024952, 77.70680300000004) Vicinity16th KM, Old Madras Road, Bengaluru
-Place_IDChIJAYG_FlEQrjsRw8GBWGne2Yg Types : point_of_interest,establishment
-================================
-================================
-================================
-Carmel High School Formatted Address : 2nd Block, 3rd Stage, Judges Colony, West of Chord road, Basaveshwara Nagar, Bengaluru, Karnataka 560079, India
- Coordinates : (12.9885786, 77.54433700000004) Vicinity2nd Block, 3rd Stage, Judges Colony, West of Chord road, Basaveshwara Nagar, Bengaluru
-Place_IDChIJjfFlZZI9rjsRMvvHbER1Nf8 Types : school,point_of_interest,establishment
-================================
-================================
-================================
-================================
-================================
-================================
 Don Bosco Institute of Technology Formatted Address : Survey No. 4/6, Kumbalagodu, Mysore Road, Bengaluru, Karnataka 560074, India
  Coordinates : (12.8818593, 77.44406400000003) VicinitySurvey No. 4/6, Kumbalagodu, Mysore Road, Bengaluru
 Place_IDChIJn7lVQHUVrjsRuH0gEMiNCrE Types : point_of_interest,establishment
-================================
-================================
-================================
-Mallya Aditi International School Formatted Address : Behind NIPCCD building, Yelahanka New Town, Bangalore, Karnataka 560106, India
- Coordinates : (13.102403, 77.58317740000007) VicinityBehind NIPCCD building, Yelahanka New Town, Bangalore
-Place_IDChIJx2P-pooYrjsRALgWaIhicbY Types : school,point_of_interest,establishment
-================================
-Sindhi High School Formatted Address : 33/2A,, Kuvempu Rd, Pampa Extension, Hebbal Kempapura, Bengaluru, Karnataka 560024, India
- Coordinates : (13.0501217, 77.59850189999997) Vicinity33/2A,, Kuvempu Road, Pampa Extension, Hebbal Kempapura, Bengaluru
-Place_IDChIJwU0Mt4UXrjsRKUPluy_wQ2s Types : school,point_of_interest,establishment
-================================
-Canadian International School Formatted Address : 4 & 20, Manchenahalli, Yelahanka, Bengaluru, Karnataka 560064, India
- Coordinates : (13.115452, 77.60692799999993) Vicinity4 & 20, Manchenahalli, Yelahanka, Bengaluru
-Place_IDChIJO9bq1IkXrjsROmQPoNq69iQ Types : school,point_of_interest,establishment
-================================
-Trio World Academy - International School Bangalore Formatted Address : 3/5 Kodigehalli Main Road Sahakar Nagar, Bengaluru, Karnataka 560092, India
- Coordinates : (13.059474, 77.58278799999994) Vicinity3/5 Kodigehalli Main Road Sahakar Nagar, Bengaluru
-Place_IDChIJ36DVHB8YrjsRCujgl_TkX6Q Types : school,point_of_interest,establishment
-================================
-================================
-================================
-MVJ College of Engineering Formatted Address : ITPL Main Road, Near ITPB, Whitefield, Bangalore, Karnataka 560067, India
- Coordinates : (12.9858024, 77.76296609999997) VicinityITPL Main Road, Near ITPB, Whitefield, Bangalore
-Place_IDChIJG4nm3g0OrjsRnRj3p-hz570 Types : point_of_interest,establishment
-================================
-================================
